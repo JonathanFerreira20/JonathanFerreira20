@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Jonathan Ferreira
 
-<!--
-**JonathanFerreira20/JonathanFerreira20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de programação
+💻 Em busca de uma oportunidade de estágio na área de tecnologia
+📚 Sempre aprendendo e desenvolvendo novos projetos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+
+💻 Linguagens e tecnologias:
+
+* C
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📂 Projetos
+
+Aqui estão alguns projetos que desenvolvi durante meus estudos na faculdade e prática pessoal:
+
+🔹 Sistema de gerenciamento de produtos em C
+🔹 Projetos acadêmicos de programação
+🔹 Experimentos com desenvolvimento web
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanFerreira20\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanFerreira20\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 Email: fjonathan250@gmail.com
+🔗 GitHub: https://github.com/JonathanFerreira20
+
+---
+
+⭐ Sempre buscando evoluir na programação e aprender novas tecnologias.
