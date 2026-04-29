@@ -10,6 +10,7 @@
 
 💻 Linguagens e tecnologias:
 
+* Python
 * C
 * HTML
 * CSS
